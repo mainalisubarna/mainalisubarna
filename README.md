@@ -1,7 +1,12 @@
-<!-- Animated Header -->
+<!-- 
+Hi Subarna! This is your revised README.
+Just copy and paste this into your mainalisubarna/README.md file.
+-->
+
+<!-- Animated Header (Fixed) -->
 <div align="center">
   <a href="https://github.com/mainalisubarna">
-    <img src="https://media.giphy.com/media/TEnXkcsHrP4YedBhlJ/giphy.gif" alt="Logo" width="200"/>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVrZjE4NnoxaGE2ZmNxZmV4aWhkejh2OTJnY3ZxdmJjaDY1M2V0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding Animation" width="250"/>
   </a>
   <h1>Hey there, I'm Subarna 👋</h1>
   <p>
@@ -37,7 +42,7 @@ Beyond building, I believe in building up the community around me, mentoring stu
 
 <table>
   <tr>
-    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"><br><strong>React.js</strong></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React & React Native"><br><strong>React & Native</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"><br><strong>Node.js</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"><br><strong>Express.js</strong></td>
     <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"><br><strong>MongoDB</strong></td>
@@ -46,27 +51,26 @@ Beyond building, I believe in building up the community around me, mentoring stu
   </tr>
 </table>
 
----
-
-### 🚀 My Proudest Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🏆 **Babu (IoT Device)** | An award-winning assistive device to help the elderly with reminders and voice commands. | `Python`, `Raspberry Pi` |
-| 📚 **NepEntrance (SaaS)** | An exam prep platform with practice tests and personalized learning resources. | `MERN Stack` |
-| 🤖 **StoryMill (AI Platform)** | An AI-powered platform that transforms text or voice narratives into compelling visual stories. | `MERN Stack`, `Gemini AI`|
+**Other Professional Skills:**
+`IoT Development` `Machine Learning` `Robotics` `Database Design & Management` `API Design & Integration`
 
 ---
 
-### 📊 My Most Used Languages & GitHub Trophies
+### 🌱 Key Interests
+
+- 🚀 Full-Stack Development
+- 🤖 Machine Learning & Robotics
+- 💡 IoT Solutions & Assistive Technology
+- 💻 Competitive Programming
+- 🧠 Continuous Learning & Skill Growth
+
+---
+
+### 📊 My Most Used Languages
 
 <div align="center">
   <a href="https://github.com/mainalisubarna">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mainalisubarna&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
-  </a>
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=mainalisubarna&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   </a>
 </div>
 
